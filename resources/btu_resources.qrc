@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>btu_icon.ico</file>
+        <file>app_icon.png</file>
+        <file>uninstall_icon.png</file>
+        <file>refresh_icon.png</file>
+        <file>settings_icon.png</file>
+        <file>about_icon.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>splash_bg.png</file>
+        <file>logo.png</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>default.qss</file>
+        <file>dark.qss</file>
+    </qresource>
+</RCC>

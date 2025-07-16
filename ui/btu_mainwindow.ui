@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>BTUMainWindow</class>
+ <widget class="QMainWindow" name="BTUMainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1200</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>BoringToUninstall - 让卸载不再无聊</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>:/icons/btu_icon.ico</normaloff>:/icons/btu_icon.ico</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1200</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="../resources/btu_resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>
