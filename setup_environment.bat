@@ -188,4 +188,5 @@ echo.
 echo 详细文档：ENVIRONMENT_SETUP.md
 echo 项目地址：https://github.com/runwezh/BoringToUninstall
 echo.
-pause
+echo 脚本执行完毕，请按任意键退出...
+pause >nul
