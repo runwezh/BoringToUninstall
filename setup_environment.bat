@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 > nul
 REM BTU 开发环境自动化安装脚本
 REM 适用于 Windows 10/11 + Visual Studio 2022
 
